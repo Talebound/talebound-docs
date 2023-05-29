@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Traits\n - Race, Class,...","id":"0459212c6838e62d","x":-498,"y":-260,"width":443,"height":160},
+		{"type":"text","text":"# Resources\n- HP, mana, energy,...","id":"d66af2ac8d41cdb1","x":-21,"y":-260,"width":443,"height":160},
+		{"type":"text","text":"# Stats\n- strength, dexterity, char,...","id":"36f2449e4967b18b","x":460,"y":-260,"width":441,"height":160},
+		{"type":"text","text":"**Classes**\n - Warrior, Druid, ...","id":"7cf01f37e60d5468","x":-291,"y":-230,"width":222,"height":96},
+		{"type":"text","text":"Resource type\n- all traits\n- trait dependant (has trait as requirement)\n\nResource formula\n- based on stat (constitution X 10)\n- based on stat modifier (constMod X 10)\n- based on trait (Hobbit  -10; Warrior + 20)\n- static max (Energy 100)","id":"0e9fc98c20fc81f8","x":-21,"y":-80,"width":443,"height":320},
+		{"type":"text","text":"Stat type\n- use modifiers\n- min-max values\n\nStat modifiers\n- 1-10 (-1); 11-20 (0); 21+ (+1),...","id":"054a37c5def7fe55","x":460,"y":-80,"width":443,"height":300},
+		{"type":"text","text":"Ability type\n- trait ability\n- item ability?\n\nCost\n- ability points?","id":"d1915e266e5c4637","x":940,"y":-80,"width":443,"height":300},
+		{"type":"text","text":"# WORLD\n- has sub traits?\n- ","id":"0fea84faa071a916","x":-500,"y":-540,"width":1880,"height":247,"color":"5"},
+		{"type":"text","text":"**Currencies**\n- gold pieces, euros,...","id":"da2a5eb5c27696de","x":-20,"y":-520,"width":280,"height":93},
+		{"type":"text","text":"# Character\n- level\n- experience\n\n\n\n\n\n\n\n\n\n\ncharacter_traits\ncharacter_resources\ncharacter_stats\ncharacter_abilities","id":"baa8bcd09cfa6432","x":-900,"y":-260,"width":381,"height":700,"color":"3"},
+		{"type":"text","text":"Trait type\n- single (race)\n- has sub-traits (DrD)\n\t- from the beginning\n\t- from certain level\n- combinatory\n\t- max number of combined traits\n\t- every choice from single main trait only\n\t- single choice from every main trait\n\t- any traits from any groups","id":"2a51dce588f59392","x":-500,"y":-80,"width":440,"height":360},
+		{"type":"text","text":"# Abilities\n- trait skills, spells,...\n","id":"48a6b6f8dd11e95d","x":940,"y":-260,"width":441,"height":160},
+		{"type":"text","text":"SKILL TREES???","id":"f52f80afb78dda9a","x":1260,"y":-240,"width":170,"height":60},
+		{"type":"text","text":"# Points\n- Ability points, Stat points\n","id":"7451e9dba7221521","x":-500,"y":320,"width":441,"height":120},
+		{"type":"text","text":"Point type\n- level up","id":"9c415b82771dd2c9","x":-500,"y":460,"width":440,"height":220},
+		{"type":"text","text":"# Items\n- cost\n- type\n- abilities\n","id":"c4ed45634a9d8e6b","x":-1540,"y":520,"width":441,"height":180},
+		{"type":"text","text":"# Blueprints\n- smith, alchemy,...\n- requirements\n","id":"6bcf9a25e5f29186","x":-1060,"y":520,"width":441,"height":180},
+		{"type":"text","text":"Item type\n- weapon","id":"f61111a69b70a45e","x":-1540,"y":720,"width":440,"height":140},
+		{"type":"text","text":"## Body parts\nbased on race\n- hands\n- max items equipped","id":"251fb5abca0a2dd7","x":-1940,"y":760,"width":360,"height":200},
+		{"type":"text","text":"**Exp table**\n- based on main trait?\n- other traits can have modifiers\n- formula? (level * 100)","id":"c5da36ecd7f6d9e6","x":-880,"y":200,"width":340,"height":220}
+	],
+	"edges":[]
+}
