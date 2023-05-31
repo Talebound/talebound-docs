@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9e6a52a7bb040db4",
+        "id": "47db9dd96c39acbe",
         "type": "tabs",
         "children": [
           {
-            "id": "4260bd2648a93e81",
+            "id": "e8af9cb9e2a75fa0",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Full overview.canvas",
                 "viewState": {
-                  "x": 399.2587545223696,
-                  "y": -949.4911207899761,
-                  "zoom": -1.2052904527209536
+                  "x": -454.1916351013464,
+                  "y": -1026.887823942545,
+                  "zoom": -1.05278116624151
                 }
               }
             }
@@ -158,10 +158,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4260bd2648a93e81",
+  "active": "e8af9cb9e2a75fa0",
   "lastOpenFiles": [
+    "Full overview.canvas",
     "Content/Homepage cards.md",
-    "README.md",
-    "Full overview.canvas"
+    "README.md"
   ]
 }
