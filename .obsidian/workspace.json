@@ -15,14 +15,30 @@
               "state": {
                 "file": "Full overview.canvas",
                 "viewState": {
-                  "x": -454.1916351013464,
-                  "y": -1026.887823942545,
+                  "x": -97.37330466042931,
+                  "y": -1053.8566512433122,
                   "zoom": -1.05278116624151
                 }
               }
             }
+          },
+          {
+            "id": "26e63dce7e9591fe",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Full overview.canvas",
+                "viewState": {
+                  "x": -195.42395456917467,
+                  "y": -737.0820623136796,
+                  "zoom": -1.3036680427842617
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d1e340468547c24a",
@@ -145,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,7 +175,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e8af9cb9e2a75fa0",
+  "active": "26e63dce7e9591fe",
   "lastOpenFiles": [
     "Full overview.canvas",
     "Content/Homepage cards.md",
