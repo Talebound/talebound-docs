@@ -30,9 +30,9 @@
               "state": {
                 "file": "Full overview.canvas",
                 "viewState": {
-                  "x": -195.42395456917467,
-                  "y": -737.0820623136796,
-                  "zoom": -1.3036680427842617
+                  "x": -772.8328629648823,
+                  "y": -722.3073032679544,
+                  "zoom": -0.3333333333333332
                 }
               }
             }
@@ -177,8 +177,13 @@
   },
   "active": "26e63dce7e9591fe",
   "lastOpenFiles": [
-    "Full overview.canvas",
+    "API/User evaluation API.md",
+    "Content/Ideas/Footer content.md",
+    "SECRET/smtp.md",
+    "Dev files/storybook preview.ts.md",
     "Content/Homepage cards.md",
+    "Full overview.canvas",
+    "Dev files",
     "README.md"
   ]
 }
