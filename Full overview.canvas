@@ -7,7 +7,7 @@
 		{"type":"text","text":"Resource type\n- all traits\n- trait dependant (has trait as requirement)\n\nResource formula\n- based on stat (constitution X 10)\n- based on stat modifier (constMod X 10)\n- based on trait (Hobbit  -10; Warrior + 20)\n- static max (Energy 100)","id":"0e9fc98c20fc81f8","x":-21,"y":-80,"width":443,"height":320},
 		{"type":"text","text":"Stat type\n- use modifiers\n- min-max values\n\nStat modifiers\n- 1-10 (-1); 11-20 (0); 21+ (+1),...","id":"054a37c5def7fe55","x":460,"y":-80,"width":443,"height":300},
 		{"type":"text","text":"Ability type\n- trait ability\n- item ability?\n\nCost\n- ability points?","id":"d1915e266e5c4637","x":940,"y":-80,"width":443,"height":300},
-		{"type":"text","text":"# RULESET\n- has sub traits?\n- ","id":"0fea84faa071a916","x":-480,"y":-540,"width":1860,"height":247,"color":"5"},
+		{"type":"text","text":"# PLAY MODES\n- has sub traits?\n- ","id":"0fea84faa071a916","x":-480,"y":-540,"width":1860,"height":247,"color":"5"},
 		{"type":"text","text":"# Character\n- level\n- experience\n\n\n\n\n\n\n\n\n\n\ncharacter_traits\ncharacter_resources\ncharacter_stats\ncharacter_abilities","id":"baa8bcd09cfa6432","x":-900,"y":-260,"width":381,"height":700,"color":"3"},
 		{"type":"text","text":"Trait type\n- single (race)\n- has sub-traits (DrD)\n\t- from the beginning\n\t- from certain level\n- combinatory\n\t- max number of combined traits\n\t- every choice from single main trait only\n\t- single choice from every main trait\n\t- any traits from any groups","id":"2a51dce588f59392","x":-500,"y":-80,"width":440,"height":360},
 		{"type":"text","text":"# Abilities\n- trait skills, spells,...\n","id":"48a6b6f8dd11e95d","x":940,"y":-260,"width":441,"height":160},
@@ -38,7 +38,7 @@
 		{"type":"text","text":"## posts\n- id\n- post_type_id\n- user_id\n- title\n- content\n- created_at\n- deleted_at\n- last_updated_at\n- last_updated_user_id\n- is_draft\n- is_private","id":"ec7779599688e065","x":-1500,"y":-906,"width":240,"height":440},
 		{"type":"text","text":"## post_history\n- id\n- post_id\n- post_type_id\n- user_id\n- title\n- content\n- created_at\n- deleted_at\n- last_updated_at\n- last_updated_user_id\n- is_draft\n- is_private","id":"58fed1274650d08c","x":-1240,"y":-906,"width":280,"height":440},
 		{"type":"text","text":"## post_types\n- id\n- name\n- draftable\n- private\n\n\n\n**100 - universal, 1, 1**\n200 - quest post, 1, 0\n300 - world description, 1, 0 \n400 - rule set description, 1, 0\n500 - quest description, 1, 0\n600 - character description, 1, 0\n700 - news, 1, 0\n800 - user introduction, 1, 0","id":"8a0a2c020dcf59bd","x":-939,"y":-906,"width":299,"height":440},
-		{"id":"efc8ff7b1bb4fb0b","x":-1500,"y":-446,"width":850,"height":60,"type":"text","text":"Only \"Universal\" post type is private. Once a type is assigned to it, it can not be private again."}
+		{"type":"text","text":"Only \"Universal\" post type is private. Once a type is assigned to it, it can not be private again.","id":"efc8ff7b1bb4fb0b","x":-1500,"y":-446,"width":850,"height":60}
 	],
 	"edges":[]
 }

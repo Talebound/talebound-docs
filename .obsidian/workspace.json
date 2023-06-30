@@ -30,9 +30,9 @@
               "state": {
                 "file": "Full overview.canvas",
                 "viewState": {
-                  "x": -772.8328629648823,
-                  "y": -722.3073032679544,
-                  "zoom": -0.3333333333333332
+                  "x": -403.58750000000083,
+                  "y": -482.3999999999994,
+                  "zoom": 0
                 }
               }
             }
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d1e340468547c24a",
@@ -155,14 +156,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "efeb38494700b28d",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 444.5
   },
   "left-ribbon": {
     "hiddenItems": {
