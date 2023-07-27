@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8af9cb9e2a75fa0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Full overview.canvas",
-                "viewState": {
-                  "x": -97.37330466042931,
-                  "y": -1053.8566512433122,
-                  "zoom": -1.05278116624151
-                }
-              }
-            }
-          },
-          {
             "id": "26e63dce7e9591fe",
             "type": "leaf",
             "state": {
@@ -30,15 +15,14 @@
               "state": {
                 "file": "Full overview.canvas",
                 "viewState": {
-                  "x": -403.58750000000083,
-                  "y": -482.3999999999994,
-                  "zoom": 0
+                  "x": -95.53372937539052,
+                  "y": -1221.1434245002986,
+                  "zoom": -0.6666666666666667
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,21 +140,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "efeb38494700b28d",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 444.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
