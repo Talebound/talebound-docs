@@ -11,14 +11,11 @@
             "id": "26e63dce7e9591fe",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Full overview.canvas",
-                "viewState": {
-                  "x": -95.53372937539052,
-                  "y": -1221.1434245002986,
-                  "zoom": -0.6666666666666667
-                }
+                "file": "API/Menu API.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d1e340468547c24a",
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Full overview.canvas",
+                "file": "API/Menu API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Full overview.canvas",
+                "file": "API/Menu API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Full overview.canvas"
+                "file": "API/Menu API.md"
               }
             }
           },
@@ -146,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,13 +157,19 @@
   },
   "active": "26e63dce7e9591fe",
   "lastOpenFiles": [
+    "API/Worlds API.md",
+    "API/Menu API.md",
     "API/User evaluation API.md",
+    "DEV/Test users.md",
+    "DEV/World administration/Collaborator rights.md",
+    "Content/Midjourney/Midjourney prompts.md",
+    "DEV/World administration",
+    "DEV/storybook preview.ts.md",
     "Content/Ideas/Footer content.md",
-    "SECRET/smtp.md",
-    "Dev files/storybook preview.ts.md",
     "Content/Homepage cards.md",
     "Full overview.canvas",
-    "Dev files",
+    "SECRET/smtp.md",
+    "DEV",
     "README.md"
   ]
 }
